@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 public class Code01_SelectionSort {
 
-	//你好
+	//你好 大哥
 
 	public static void selectionSort(int[] arr) {
 		if (arr == null || arr.length < 2) {
